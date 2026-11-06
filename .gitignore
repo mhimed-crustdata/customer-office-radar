@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+!.env.example
+# run output and alert state (contain account data)
+out/
+.state/
+*.csv
+!examples/*.csv
+# python
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

@@ -1,0 +1,3 @@
+# The core tool uses only the Python standard library.
+# Install this only if you want the optional Claude step (needs Python 3.10+).
+anthropic>=1.0
